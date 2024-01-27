@@ -1,0 +1,10 @@
+#键值对
+key: value
+#嵌套结构
+parent:
+  child1: value1
+  child2: value2
+#列表结构
+- item1
+- item2
+- itme3

@@ -1,0 +1,2 @@
+INFO - 2023-11-25 20:38:57,269 - test_login.py:35 -[test_login:test_case01] - 获取到接口的地址：http://127.0.0.1:8787/dar/user/login
+INFO - 2023-11-25 20:38:57,302 - test_login.py:35 -[test_login:test_case01] - 获取到接口的地址：http://127.0.0.1:8787/dar/user/login
